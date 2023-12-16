@@ -1,6 +1,6 @@
 #AnTv🚗地址-：https://at.atts12.xyz/?antvinvite=pen5qADld7
 
-^http[s]?:\/\/m3u8.shnhyl.com.cn\/api\/index?u=*
+^http[s]?:\/\/m3u8.shnhyl.com.cn\/api\/index\/.*$ url
 script-request-header
 
 /*
